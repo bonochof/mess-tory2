@@ -16,4 +16,4 @@ $ messtory2.exe
 C++
 
 ## 開発者
-[bonochof](https://github/bonochof)
+[bonochof](https://github.com/bonochof)
